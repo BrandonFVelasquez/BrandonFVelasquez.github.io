@@ -1,6 +1,8 @@
 # First github page #
 Hello world! This is the first time I have created a page using github :D.
 
-This page was created to show this meme, it is important 👉[https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fside-eye-dog-suspicious-look-suspicious-doubt-dog-doubt-gif-23680990&psig=AOvVaw2pLNdZ0n5fJ4TYqxla4AaA&ust=1675233953837000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMDNyfea8fwCFQAAAAAdAAAAABAc](url)
-
-enjoy 🤣
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
